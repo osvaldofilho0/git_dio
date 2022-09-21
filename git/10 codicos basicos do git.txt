@@ -1,0 +1,10 @@
+git_clone
+git_branch
+git_checkout
+git_status
+git_add
+git_commit
+git_push
+git_pull
+git_revert
+git_merge
